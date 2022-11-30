@@ -1,0 +1,7 @@
+git status => status of repository
+git log => history
+git add . => stage all the files and folders present
+git commit -m => commit the files 
+copy con <file name> => edit files but will use a different command later
+type nul > file name => create new files
+dir => navigate
